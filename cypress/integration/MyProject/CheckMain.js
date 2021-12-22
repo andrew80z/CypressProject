@@ -1,5 +1,5 @@
-describe('My First Test', () => {
-  it('clicking "type" shows the right headings', () => {
+describe('My front page checkups ', () => {
+  it('Opens main page and verifies the elements ', () => {
    const cityName = "Odessa";
    const countryName = "Germany"
     cy.visit('/')
