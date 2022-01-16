@@ -1,4 +1,4 @@
 # CypressProject
-npm install cypress -save-dev
-npm install --save-dev cypress-file-upload
-npm cypress open
+npm install cypress -save-dev <br />
+npm install --save-dev cypress-file-upload <br />
+npm cypress open <br />
