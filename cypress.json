@@ -1,3 +1,6 @@
 {
-  "baseUrl": "https://www.theweather.com"
+  "baseUrl": "https://dev-marketplace.medcase.app",
+
+  "chromeWebSecurity": false,
+    "firefoxWebSecurity":  false
 }
